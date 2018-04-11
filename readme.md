@@ -22,3 +22,6 @@ Since the script won't be running, you can start it manually
 ```shell
 sudo /etc/init.d/listen-for-shutdown.sh start
 ```
+
+## Wiring
+![layout][doc/layout_bb.png]
