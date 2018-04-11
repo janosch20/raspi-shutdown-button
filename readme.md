@@ -24,4 +24,4 @@ sudo /etc/init.d/listen-for-shutdown.sh start
 ```
 
 ## Wiring
-![layout][doc/layout_bb.png]
+![layout](doc/layout_bb.png)
